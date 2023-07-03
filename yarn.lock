@@ -2346,7 +2346,7 @@ __metadata:
     "@types/node": ^20.3.2
     "@vitejs/plugin-react": ^4.0.1
     vite: ^4.3.9
-    vite-plugin-dts: ^3.0.0-beta.3
+    vite-plugin-dts: ^3.0.3
   languageName: unknown
   linkType: soft
 
@@ -2439,9 +2439,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite-plugin-dts@npm:^3.0.0-beta.3":
-  version: 3.0.0-beta.3
-  resolution: "vite-plugin-dts@npm:3.0.0-beta.3"
+"vite-plugin-dts@npm:^3.0.3":
+  version: 3.0.3
+  resolution: "vite-plugin-dts@npm:3.0.3"
   dependencies:
     "@microsoft/api-extractor": ^7.36.0
     "@rollup/pluginutils": ^5.0.2
@@ -2459,7 +2459,7 @@ __metadata:
       optional: true
     vite:
       optional: true
-  checksum: 7f7d465583108b18acd794af48b737521636041af5a4c7f613467eeca16aadcc5aa68b1ae6c7502c1072b35ba2a6216c8be10fc2e9bb0698c11e041c9f790d0b
+  checksum: f7f8397a94dea8233ba6cbd56e1d6ddc67daf23fac766b519341e357d63afa2377ab74ff51c3192b8db2297642609958ac35be2ca97a25a7edb07a43bc92b5f6
   languageName: node
   linkType: hard
 
